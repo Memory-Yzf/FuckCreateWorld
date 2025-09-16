@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.yzf.fcw.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fcw.refmap.json",
+  "client": [
+    "WorldSelectionListMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
